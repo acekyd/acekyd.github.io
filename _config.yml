@@ -38,11 +38,11 @@ projects:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  twitter: ace_kyd
+    twitter: ace_kyd
   # unsplash: your_username
   # vk: your_username
-  website: https://www.acekyd.com
-  youtube: acekyd
+    website: https://www.acekyd.com
+    youtube: acekyd
 
 topics:
   - name: PHP
