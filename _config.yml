@@ -27,7 +27,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -47,7 +47,7 @@ projects:
 topics:
   - name: PHP
     web_url: https://github.com/topics/php
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
 
   - name: JavaScript
     web_url: https://github.com/topics/js
